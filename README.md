@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alie
 - 👀 I’m interested in Python and Javascript Programming Languages
 - 🌱 I’m currently learning Next-js
-- 💞️ I’m looking to collaborate on NASA (opsional :v)
 - 😄 Pronouns: Zai
 - ⚡ Fun fact: I'm Weeaboo
