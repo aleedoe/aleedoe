@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python and Javascript Programming Languages
 - 🌱 I’m currently learning Next-js
 - 😄 Pronouns: Zai
-- ⚡ Fun fact: I'm Weeaboo
+- ⚡ Fun fact: I'm spiderman
