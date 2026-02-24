@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alie
 - 👀 I’m interested in Python and Javascript Programming Languages
-- 🌱 I’m currently learning Nest-js
+- 🌱 I’m currently learning for software enginering
 - 😄 Pronouns: Zai
 - ⚡ Fun fact: I'm spiderman
