@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alie
+- 👋 Hi, I’m Aleedoe
 - 👀 I’m interested in Python and Javascript Programming Languages
-- 🌱 I’m currently learning for Game Developer (Roblox)
-- 😄 Pronouns: Zai
+- 🌱 I’m currently learning for Game Developer (Roblox) & AI Automation
+- 😄 Pronouns: alee
 - ⚡ Fun fact: I'm spiderman
