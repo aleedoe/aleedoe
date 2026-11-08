@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleedoe
 - 👀 I’m interested in Python and Javascript Programming Languages
-- 🌱 I’m currently learning for Game Developer (Roblox) & AI Automation
+- 🌱 I’m currently learning for Game Developer (Roblox) & 3D Model
 - 😄 Pronouns: alee
 - ⚡ Fun fact: I'm spiderman
